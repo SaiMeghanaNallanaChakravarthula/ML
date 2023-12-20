@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Hi!",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm good. How are you?"
+    },
+    {
+      "question": "good",
+      "answer": "Glad to hear that!"
+    },
+    {
+      "question": "do you know my name?",
+      "answer": "yes Maggi!"
+    },
+    {
+      "question": "What do you do?",
+      "answer": "I work using reinforcement algo"
+    }
+  ]
+}
